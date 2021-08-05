@@ -1,0 +1,22 @@
+git commands 
+
+
+git clone httplink -- to clone the project
+
+git branch  --- to check the branch name
+
+git chekout < branch name > -- to move to one branch to another branch 
+
+git diff
+
+git status -- to check the status and show include files
+
+git add <filename> -- to untracced file change to traccedfile
+
+git pull -- data extract from git UI to local cmd
+
+git push -- to send the data in local cmd to git UI
+
+git commit -- 
+
+git restore -- 
